@@ -1,0 +1,13 @@
+.stock-dashboard{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.stock-dashboard ul{
+    list-style-type: none;
+    text-align: center;
+    margin-left: -35px;
+    color: rgb(92, 118, 248);
+    font-size: 18px;
+    font-weight: bold;
+}
